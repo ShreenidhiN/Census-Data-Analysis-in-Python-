@@ -5,7 +5,7 @@ The dataset was taken from **Kaggle**.
 
 ![foxdemo](https://github.com/ShreenidhiN/Census-Data-Analysis-in-Python-/blob/master/Viz_images/1.JPG)
 
-![test image size](https://github.com/ShreenidhiN/Census-Data-Analysis-in-Python-/blob/master/Viz_images/4.JPG){:height="50%" width="50%"}
+![test image size](https://github.com/ShreenidhiN/Census-Data-Analysis-in-Python-/blob/master/Viz_images/4.JPG)
 
 
 
